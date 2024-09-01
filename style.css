@@ -1,0 +1,93 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: 'Young  Serif', serif;
+}
+.container{
+    padding: 20px;
+}
+.one{
+    background-color: black;
+    color: white;
+    padding: 30px;
+}
+.one_name{
+    font-size: 30px;
+    
+}
+.one_role{
+    font-size: 20px;
+    margin-top: 10px;
+}
+.one_contact{
+    text-decoration: none;
+    background-color: orange;
+    color: black;
+    margin-top: 10px;
+    display: inline-block;
+
+}
+.container{
+    padding: 30px;
+    margin: 20px;
+}
+.one,.two,.three,.four,.five,.six,.seven,.eight,.nine,.ten,.eleven{
+ margin-top: 20px;
+}
+.two_desc,.three_coll,.four_role,.four_accom,.four_resp,.five_lisofskills,.six_listofint,.seven_projdes,.seven_projdesc,.seven_firstname,.seven_secname,.eight_lisoftecskils,.nine_lisofcer,.ten_mob,.eleven_linked{
+margin-top: 10px;
+}
+.eleven{
+    background-color: black;
+    color: white;
+   padding: 20px;
+
+}
+.eleven_socmed a{
+    color: skyblue;
+}
+.three_coll li , .four_accom li, five_lisofskills li, six_listofint li, seven_firstproj li, seven_firstproj li,seven_secproj li {
+    list-style: none;
+}
+.five{
+    background-color: aquamarine;
+    color: black;
+    padding: 20px;
+    vertical-align: top;
+    display:inline-block;
+    border-radius: 10px;
+}
+.six{
+    background-color: olivedrab;
+    color: black;
+    padding: 20px;
+    vertical-align: top;
+    display:inline-block;
+    border-radius: 10px;
+}
+.form{
+    margin-top: 20px;
+    
+}
+.form_name,.form_email,.form_message{
+    margin-top: 20px;
+}
+.form_name,.form_email{
+    border: none;
+    padding: 10px;
+    border-bottom: solid black 1px;
+
+}
+.form_message{
+    border: none;
+    padding: 10px;
+    border-bottom: solid black 1px;
+}
+.form_button{
+    padding: 10px;
+    background-color: brown;
+    color: black;
+    border: none;
+}
